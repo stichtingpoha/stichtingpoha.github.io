@@ -1,6 +1,11 @@
+*,*::before,*::after{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
 header.navbar {
-    background: #197052;
-    border-bottom: 1px solid #ddd;
+    background: #004D7F;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -11,7 +16,7 @@ header.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 90%;
+    width: 100%;
     max-width: 1000px;
     margin: 0 auto;
   }
@@ -30,6 +35,6 @@ header.navbar {
   }
   
   nav a:hover {
-    color: #146c54;
+    color: #f2f2f2;
   }
   
