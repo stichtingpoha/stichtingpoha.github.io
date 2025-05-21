@@ -48,6 +48,57 @@
   }
   
   nav a:hover {
-    color: #146c54;
+    color: #004ce3;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    gap: 1.5rem;
+  }
+  
+  .team-member {
+    text-align: center;
+    max-width: 200px;
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #146c54;
+    margin-bottom: 0.5rem;
+  }
+
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2rem 0;
+    margin-top: 2rem;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: left;
+  }
+  
+  .footer-content div {
+    margin-bottom: 1rem;
+  }
+  
+  .footer-content h4 {
+    margin-bottom: 0.5rem;
   }
   
