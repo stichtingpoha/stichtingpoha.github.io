@@ -103,4 +103,16 @@
   .footer-content h4 {
     margin-bottom: 0.5rem;
   }
-  
+
+  .footer-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer-image img {
+    max-width: 140px;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
