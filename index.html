@@ -45,10 +45,7 @@
 <section id="over-ons" class="content">
   <div class="container">
     <h2>{{ site.data.home.over_ons.title }}</h2>
-
-    {% for paragraph in site.data.home.over_ons.paragraphs %}
-      <p>{{ paragraph }}</p>
-    {% endfor %}
+    <p>{{ site.data.home.over_ons.body }}</p>
   </div>
 </section>
 
@@ -97,7 +94,7 @@
     <div class="footer-image">
       <img src="Afbeeldingen/ANBI.png" alt="ANBI" />
     </div>
-    
+
     <div>
       <h4>KVK nummer</h4>
       <p>97191191</p>
