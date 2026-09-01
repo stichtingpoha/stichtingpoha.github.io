@@ -1,6 +1,6 @@
 visie:
   title: Onze Visie
-  quote: "We don’t need dentistry, we need oral health."
+  quote: "We don't need dentistry, we need oral health."
   body: >
     Deze visie is inhoudelijk gebaseerd op de agenda voor mondgezondheid van de World Health Organization (WHO).
     De focus ligt hierbij op kennis over preventieve mondgezondheid in plaats van tandheelkundig (be)handelen.
@@ -18,8 +18,8 @@ over_ons:
   title: Wie zijn wij?
   body:
     De stichting Promoting Oral Health Africa (stichting POHA) is een non-profitorganisatie die zich richt op het bevorderen van de mondgezondheid in lage- en midden inkomenslanden.
-    Stichting Promoting Oral Health Africa (POHA) is ontstaan (is een vervolg op) uit Rotary Doctors Nederland (RDN). RDN heeft jarenlang succesvol artsen en tandartsen uitgezonden naar afgelegen rurale gebieden. Maar de wereld is veranderd, Afrika is veranderd en hierdoor was de rol van de RDN uitgespeeld.
-    Maar deze ervaringen en veranderingen brachten ook nieuwe inzichten, mede ook door de agenda voor mondgezondheid van de World Health Organization (WHO). Vanuit deze inzichten is een nieuwe visie ontwikkeld door de stichting POHA over een aanpak om mondgezondheid in rurale gebieden duurzaam en in samenwerking met de overheid te blijven bevorderen.
+    Stichting Promoting Oral Health Africa (POHA) is ontstaan (is een vervolg op) uit Rotary Doctors Nederland (RDN). RDN heeft jarenlang succesvol artsen en tandartsen uitgezonden naar afgelegen rura[...]
+    Maar deze ervaringen en veranderingen brachten ook nieuwe inzichten, mede ook door de agenda voor mondgezondheid van de World Health Organization (WHO). Vanuit deze inzichten is een nieuwe visie o[...]
 
 team:
   members:
@@ -40,6 +40,7 @@ contact:
   title: Contact
   text: "Heb je nog vragen, wil je meer weten? Neem vooral contact met ons op:"
   email: "stichtingPOHA@gmail.com"
+  link: "mailto:stichtingPOHA@gmail.com"
 
 TEST: 
   title: "test"
